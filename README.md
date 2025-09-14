@@ -6,6 +6,18 @@ The workflow also supports **upsert** mode (update existing rows or insert new o
 
 ---
 
+## 📸 Screenshots
+
+### Workflow
+![Workflow](./workflow.jpg)
+
+### Google Sheet 1
+![Sheet 1](./sheet1.jpg)
+
+### Google Sheet 2
+![Sheet 2](./sheet2.jpg)
+
+
 ## 🚀 Features
 - Scrape jobs from LinkedIn (or other job boards)
 - Extract structured attributes:
