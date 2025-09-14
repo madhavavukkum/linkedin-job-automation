@@ -9,7 +9,7 @@ The workflow also supports **upsert** mode (update existing rows or insert new o
 ## 📸 Screenshots
 
 ### Workflow
-![Workflow](./workflow.png)
+![Workflow](./workflow-templet.png)
 
 ### Google Sheet 1
 ![Sheet 1](./sheet1.png)
